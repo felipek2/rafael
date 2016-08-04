@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- barra de status -->
+    <color name="primaryDark">#616161</color>
+    <!-- barra de menu -->
+    <color name="primary">#9E9E9E</color>
+    <!-- icones e texto settings e opções em geral -->
+    <color name="accent">@android:color/black</color>
+
+
+</resources>
+
