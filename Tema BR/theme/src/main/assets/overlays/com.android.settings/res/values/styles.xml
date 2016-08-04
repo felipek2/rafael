@@ -2,16 +2,13 @@
 <resources xmlns="http://schemas.android.com/apk/res/android">
 
 
-    <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings">
-        <item name="android:colorPrimary">@*common:color/primary</item>
-        <item name="android:colorPrimaryDark">@*common:color/primaryDark</item>
-
-        <item name="android:colorAccent">@*common:color/accent</item>
-        <item name="android:colorControlActivated">@*common:color/accent</item>
-
+   <!-- backgroud dos dialogs em Settings -->
+    <style name="Theme.AlertDialog" parent="@android:style/Theme.Material.Dialog.Alert">
+        <item name="android:colorBackground">#212121</item>
     </style>
 
 
+    <!-- define o estilo do texto da descrição da categoria -->
     <style name="TextAppearance.CategoryTitle"
         parent="@android:style/TextAppearance">
         <item name="android:textColor">@color/text_categoria</item>

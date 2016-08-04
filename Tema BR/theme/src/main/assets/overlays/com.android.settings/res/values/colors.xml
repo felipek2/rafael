@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--<color name="dashboard_category_background_color">@android:color/transparent</color>-->
-    <!--<color name="dashboard_background_color">@android:color/transparent</color>-->
-	<!---->
-	
-	<color name="text_categoria">@android:color/black</color>
+
+    <!-- cor do plano de fundo das categorias -->
+    <color name="dashboard_category_background_color">#212121</color>
+    <!-- cor do plano de fundo da tela inicial das configurações -->
+    <!--<color name="dashboard_background_color">@android:color/black</color>-->
+
+	<!-- cor do texto da categoria -->
+	<color name="text_categoria">@android:color/white</color>
 
     <!-- cor da previsão do gráfico da bateria -->
-    <color name="material_empty_color_light">#B2DFDB</color>
+    <!--<color name="material_empty_color_light">#B2DFDB</color>-->
 
-
-
-    <color name="switchbar_background_color">@*common:color/primary</color>
+    <!-- menu com switch -->
+    <color name="switchbar_background_color">#424242</color>
 
 </resources>

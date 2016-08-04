@@ -3,11 +3,11 @@
 <resources>
 
     <!-- barra de status -->
-    <color name="primaryDark">#616161</color>
+    <color name="primaryDark">#B71C1C</color>
     <!-- barra de menu -->
-    <color name="primary">#9E9E9E</color>
+    <color name="primary">#C62828</color>
     <!-- icones e texto settings e opções em geral -->
-    <color name="accent">@android:color/black</color>
+    <color name="accent">#B71C1C</color>
 
 
 </resources>
