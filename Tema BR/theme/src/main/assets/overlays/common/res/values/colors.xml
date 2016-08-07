@@ -9,6 +9,10 @@
     <!-- icones e texto settings e opções em geral -->
     <color name="accent">#B71C1C</color>
 
+    <color name="theme_color_qs_icon_color">#ffffffff</color>
+
+    <color name="theme_color_qs_icon_color_disabled">#4dffffff</color>
+    <color name="qs_toggles_midnight">#ffffffff</color>
 
 </resources>
 

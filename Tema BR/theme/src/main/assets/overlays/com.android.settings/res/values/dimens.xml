@@ -8,7 +8,7 @@
     <dimen name="dashboard_padding_bottom">4dip</dimen>
 
     <!-- tamanho do gráfico da bateria -->
-    <dimen name="battery_history_chart_height">100dp</dimen>
+    <!--<dimen name="battery_history_chart_height">100dp</dimen>-->
 
 
 </resources>
