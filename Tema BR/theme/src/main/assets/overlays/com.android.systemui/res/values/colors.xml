@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
+    <!-- barra de menu -->
+    <color name="system_primary_color">#212121</color>
+    <!-- cabeçalho-->
+    <color name="system_secondary_color">#B71C1C</color>
 
-    <color name="system_primary_color">@android:color/black</color>
-    <color name="system_secondary_color">@android:color/black</color>
+    <color name="system_accent_color">@android:color/white</color>
+
+    <color name="qs_tile_divider">@color/system_primary_color</color>
 
 
+    <!-- icone de carregamento da bateria -->
+    <!--<color name="batterymeter_bolt_color">@android:color/black</color>-->
+
+    <!-- Para os icones da barra de status -->
     <color name="dark_mode_icon_color_single_tone">#616161</color>
     <color name="dark_mode_icon_color_dual_tone_background">#616161</color>
     <color name="dark_mode_icon_color_dual_tone_fill">#616161</color>
-
 
     <color name="light_mode_icon_color_single_tone">#ffffffff</color>
     <color name="light_mode_icon_color_dual_tone_background">#4dffffff</color>

@@ -10,25 +10,22 @@
         <item name="android:colorAccent">@*common:color/accent</item>
     </style>
 
-    <!-- define o estilo das configurações -->
-    <style name="Theme.Material.Settings" parent="@style/Theme.Material">
-        <item name="android:colorPrimary">@*common:color/primary</item>
-        <item name="android:colorPrimaryDark">@*common:color/primaryDark</item>
-
-        <item name="android:colorControlActivated">@*common:color/accent</item>
-
-    </style>
-
     <!-- aplicado ao estilo light -->
     <style name="Theme.Material.Light" parent="@*android:style/Theme.Material.Light">
         <!-- estes dois itens é quem colore a barra de navegação da cor da barra de status -->
         <item name="android:statusBarColor">?*android:colorPrimaryDark</item>
         <item name="android:navigationBarColor">?*android:colorPrimaryDark</item>
 
+        <item name="android:colorAccent">@*common:color/accent</item>
+    </style>
+
+    <!-- define o estilo das configurações -->
+    <style name="Theme.Material.Settings" parent="@*android:style/Theme.Material.Settings">
         <item name="android:colorPrimary">@*common:color/primary</item>
         <item name="android:colorPrimaryDark">@*common:color/primaryDark</item>
-
         <item name="android:colorAccent">@*common:color/accent</item>
+
+        <item name="android:colorControlActivated">@*common:color/accent</item>
     </style>
 
     <!-- titulo da notificação -->

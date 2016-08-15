@@ -8,13 +8,13 @@
     <!-- BARRA DE STATUS E CABEÇALHO -->
 
     <!-- Header height -->
-    <dimen name="status_bar_header_height_expanded">100.0dip</dimen>
+    <dimen name="status_bar_header_height_expanded">90.0dip</dimen>
     <!-- Removed shadow - separação entre os dois-->
-    <dimen name="status_bar_expanded_header_elevation">0.0dp</dimen>
-    <!--&lt;!&ndash; Resized clock &ndash;&gt;-->
-    <!--<dimen name="clock_expanded_bottom_margin">5.0dip</dimen>-->
+    <!--<dimen name="status_bar_expanded_header_elevation">0.0dp</dimen>-->
+    <!-- Resized clock -->
+    <dimen name="clock_expanded_bottom_margin">5.0dip</dimen>
     <!-- Resized brightness slider -->
-    <dimen name="qs_brightness_padding_top">0.0dp</dimen>
+    <!--<dimen name="qs_brightness_padding_top">-10.0dip</dimen>-->
     <!-- Space between Y-Edges -->
     <dimen name="notification_side_padding">0.0dip</dimen>
 
@@ -30,4 +30,7 @@
     <dimen name="notification_padding">0.0dip</dimen>
     <!-- Space between notifications -->
     <dimen name="notifications_top_padding">0.0dip</dimen>
+
+
+
 </resources>
