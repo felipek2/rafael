@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/vector">
+    <target
+        android:name="one"
+        android:animation="@anim/spinner_seven_one" />
+    <target
+        android:name="two"
+        android:animation="@anim/spinner_seven_two" />
+     <target
+        android:name="three"
+        android:animation="@anim/spinner_seven_three" />
+
+    <target
+        android:name="four"
+        android:animation="@anim/spinner_seven_four" />
+
+
+
+
+</animated-vector>

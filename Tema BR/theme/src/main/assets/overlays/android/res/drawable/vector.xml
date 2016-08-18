@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="76.0dip"
+    android:height="76.0dip"
+    android:tint="?android:colorControlActivated"
+    android:viewportHeight="48.0"
+    android:viewportWidth="48.0">
+    <group
+        android:name="one"
+        android:translateX="24.0" android:pivotX="0" android:pivotY="0"
+        android:translateY="24.0">
+        <path
+            android:fillColor="@android:color/white"
+            android:pathData="M-14.066-0.922h28.133v1.844h-28.133V-0.922z" />
+
+    </group>
+
+    <group
+        android:name="two"
+        android:translateX="24.0"
+        android:translateY="24.0">
+        <path
+            android:fillColor="@android:color/white"
+            android:pathData="M-14.066-0.922h28.133v1.844h-28.133V-0.922z" />
+
+    </group>
+    <group
+        android:name="three"
+        android:translateX="24.0"
+        android:translateY="24.0">
+        <path
+            android:fillColor="@android:color/white"
+            android:pathData="M-14.066-0.922h28.133v1.844h-28.133V-0.922z" />
+
+    </group>
+    <group
+        android:name="four"
+        android:translateX="24.0"
+        android:translateY="24.0">
+        <path
+            android:fillColor="@android:color/white"
+            android:pathData="M-14.066-0.922h28.133v1.844h-28.133V-0.922z" />
+
+    </group>
+
+</vector>

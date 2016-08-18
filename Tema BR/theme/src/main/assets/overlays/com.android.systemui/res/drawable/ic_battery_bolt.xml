@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Charge indicator -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24.0dip"
+    android:height="24.0dip"
+    android:tint="@color/batterymeter_bolt_color"
+    android:viewportHeight="24.0"
+    android:viewportWidth="24.0">
+
+    <!-- raio de carregamento -->
+    <path android:fillColor="#ff000000" android:pathData="M10.5,7h5l-2,4h3l-7,6l2-5H8.5L10.5,7z" />
+</vector>

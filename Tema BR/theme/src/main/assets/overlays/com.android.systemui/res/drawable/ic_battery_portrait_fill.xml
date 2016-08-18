@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Battery level -->
+<!-- The drawable that is dynamically drawn based on the battery level
+and an associated animation which determines
+how much of the level to draw
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24.0dip"
+    android:height="24.0dip"
+    android:viewportHeight="24.0"
+    android:viewportWidth="24.0">
+
+    <!-- formato da bateria -->
+    <clip-path android:name="mask"
+        android:pathData="@string/battery_portrait_clip_path" />
+
+    <!-- Path will be tinted based on battery level -->
+    <path android:name="battery_level" android:fillColor="#ff000000"
+        android:pathData="@string/battery_portrait_path_empty" />
+</vector>

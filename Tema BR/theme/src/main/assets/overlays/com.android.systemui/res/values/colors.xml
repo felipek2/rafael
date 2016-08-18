@@ -12,16 +12,16 @@
 
 
     <!-- icone de carregamento da bateria -->
-    <!--<color name="batterymeter_bolt_color">@android:color/black</color>-->
+    <color name="batterymeter_bolt_color">@android:color/black</color>
 
-    <!-- Para os icones da barra de status -->
-    <color name="dark_mode_icon_color_single_tone">#616161</color>
-    <color name="dark_mode_icon_color_dual_tone_background">#616161</color>
-    <color name="dark_mode_icon_color_dual_tone_fill">#616161</color>
+    <!--&lt;!&ndash; Para os icones da barra de status &ndash;&gt;-->
+    <!--<color name="dark_mode_icon_color_single_tone">#616161</color>-->
+    <!--<color name="dark_mode_icon_color_dual_tone_background">#616161</color>-->
+    <!--<color name="dark_mode_icon_color_dual_tone_fill">#ff616161</color>-->
 
-    <color name="light_mode_icon_color_single_tone">#ffffffff</color>
-    <color name="light_mode_icon_color_dual_tone_background">#4dffffff</color>
-    <color name="light_mode_icon_color_dual_tone_fill">#ffffffff</color>
+    <!--<color name="light_mode_icon_color_single_tone">#ffffffff</color>-->
+    <!--<color name="light_mode_icon_color_dual_tone_background">#4dffffff</color>-->
+    <!--<color name="light_mode_icon_color_dual_tone_fill">#ffffffff</color>-->
 
 
 </resources>

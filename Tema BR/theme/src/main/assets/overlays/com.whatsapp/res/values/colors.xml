@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<color name="divider_gray">#00000000</color>-->
+
+    <color name="accent">@*common:color/accent</color>
+
+    <color name="ripple_material_dark">@*common:color/accent</color>
+    <color name="ripple_material_light">@*common:color/accent</color>
+
+    <color name="ballon_in_pressed">@*common:color/accent</color>
+    <color name="ballon_out_normal">@*common:color/accent</color>
+
+</resources>

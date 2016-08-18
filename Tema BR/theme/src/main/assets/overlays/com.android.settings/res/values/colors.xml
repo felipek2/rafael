@@ -19,4 +19,8 @@
     <!-- menu com switch -->
     <color name="switchbar_background_color">#212121</color>
 
+
+    <color name="dash_icon_color">@color/theme_accent</color>
+
+
 </resources>

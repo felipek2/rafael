@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+
+    <!-- titulo do item -->
+    <style name="ListItemTitle" parent="@android:style/TextAppearance">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- texto de descrição e da ultima pessoa que falou em grupo -->
+    <style name="ListItemSubtitle" parent="@android:style/TextAppearance">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@*common:color/accent</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+
+</resources>
